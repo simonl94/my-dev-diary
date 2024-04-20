@@ -1,0 +1,14 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Simon's Dev Diary
+theme: ["PaperMod"]
+params:
+  homeInfoParams:
+    Title: Hi there 👋
+    Content: Welcome to my Dev Diary! Here I write about my experiences and learnings as a software developer in the industry.
+
+  socialIcons:
+    - name: "GitHub"
+      url: "https://github.com/simonl94"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/simon-lee-9350a216a/"
